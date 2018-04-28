@@ -1,0 +1,20 @@
+.centro{
+    text-align:center;
+    font-family:Arial;
+}
+.paint{  
+   background-color:Lightgreen; 
+}
+
+.nhe{
+    position:absolute;
+    left:10px;    
+}
+
+.margem{
+    margin-left:20%;
+    margin-right:30%;
+    font-family:Arial;
+    color:Lightblue;
+    background-color:black;
+}
